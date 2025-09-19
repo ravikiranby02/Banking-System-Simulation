@@ -1,5 +1,5 @@
 ````markdown
-# 📘 Student Report Card Generator
+📘 Student Report Card Generator
 
 The **Student Report Card Generator** is a Python-based console application that helps manage students, their marks, and report cards. It is designed to simulate a simple school system for generating student performance reports.
 
